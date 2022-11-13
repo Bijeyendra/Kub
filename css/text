@@ -1,0 +1,32 @@
+font-family: 'Roboto', sans-serif;
+
+font-family: 'Roboto Condensed', sans-serif;
+
+font-family: 'Roboto Slab', serif;
+
+
+
+
+<div class="container">
+<div class="journal_text">
+    <h3>From the Journal</h3>
+</div>
+
+<div class="journal_part">
+    <div class="journal_item">
+        <div class="journal_item_text">
+            <h3>Pellentesque  Malesuada Vulputate</h3>
+            <p>21.04.2014  /  Photography, Journal</p>
+        </div>
+
+        <div class="journal_img">
+            <img src="images/masrrom.jpg" alt="">
+        </div>
+    </div>
+</div>
+</div>
+
+
+
+
+
